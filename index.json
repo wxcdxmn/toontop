@@ -3,7 +3,7 @@
         "name": "TOONTOP",
         "fileName": "toontop.js",
         "key": "toontop",
-        "version": "1.3.0",
+        "version": "1.3.2",
         "description": "TOONTOP (toontop.io) 漫画源：接口 + 网页 SSR 双通道，首页 7 区块、72 项题材筛选、全量章节目录"
     }
 ]
